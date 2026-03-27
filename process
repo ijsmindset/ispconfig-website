@@ -1,0 +1,12 @@
+Para entrar en la demo de iSP config sería usando los datos:
+http://demo3.ispconfig.org
+Username: client
+Password: demo
+Una vez dentro del panel selecciona en el menú de la parte superior la opción Sites que da
+acceso a los sitios web alojados.
+Ahora pulsa sobre el botón Add new website para añadir una nueva web.
+Hay muchas opciones que podrías configurar, pero en general lo único que debes hacer es
+introducir el nombre de tu dominio en el campo Domain, marcar las casillas SSL y Let’s
+Encrypt SSL en caso de que lo tengas habilitado y finalmente pulsar Save.
+Para crear tu nueva cuenta FTP en el menú de la izquierda selecciona Web Access >
+FTP-Accounts y después la opción Add new FTP-User.
